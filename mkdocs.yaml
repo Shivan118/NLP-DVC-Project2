@@ -8,8 +8,8 @@ site_author: Shivan Kumar
 site_description: >-
   DESCRIPTION
 # Repository
-repo_name: Shivan118/REPO_NAME
-repo_url: https://github.com/Shivan118/REPO_NAME
+repo_name: Shivan118/NLP-DVC-Project2
+repo_url: https://github.com/Shivan118/NLP-DVC-Project2
 
 # Configuration
 theme:

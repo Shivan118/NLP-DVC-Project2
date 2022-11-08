@@ -4,6 +4,7 @@ site_name: DVC NLP Project
 nav:
   - Home: index.md
   - Data-Prepration-Stage: data_prep.md
+  - Featurization: featurization.md
 
 site_author: Shivan Kumar
 site_description: >-
